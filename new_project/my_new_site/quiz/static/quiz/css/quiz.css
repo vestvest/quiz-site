@@ -1,0 +1,18 @@
+header {
+width: 101%;
+length: 100px;
+position: static;
+}
+
+.navbar-nav a {
+margin-left: 30px;
+}
+
+.quiz_logo {
+width: 80px;
+padding: 0px;
+}
+navbar-toggler:hover {
+color: ;
+transform: scale(5%);
+}
